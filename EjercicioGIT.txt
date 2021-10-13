@@ -1,2 +1,5 @@
-iniciando GIT
-Modificando Archivos GIT
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Index</title>
+<>
